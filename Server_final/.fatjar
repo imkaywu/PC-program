@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue May 14 00:05:20 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=\u8BFE\u5802\u5C0F\u52A9\u624B.jar
+manifest.mergeall=true
+manifest.mainclass=kay.MainUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
